@@ -249,25 +249,25 @@
         "You need to specify the group chat ID that you want to configure (use /chatid command inside the group to know it).\n\nExample:\n/connect -1234567890",
 
     "CONNECT_JUST_ADMIN":
-        "Just an Admin of that group can configure it.",
+        "해당 그룹의 관리자만 설정할 수 있습니다.",
 
     "CONNECT_OK":
         "Connected to group {}. Now you can configure group captcha settings from private.",
 
     "DISCONNECT_NOT_CONNECTED":
-        "You are not connected.",
+        "연결되어 있지 않습니다.",
 
     "DISCONNECT_OK":
-        "Disconnected from group {}.",
+        "{} 그룹과 연결이 끊어졌습니다.",
 
     "INVALID_GROUP_ID":
-        "Invalid group chat ID.",
+        "그룹 채팅 ID가 잘못되었습니다.",
 
     "CHECK_CFG":
-        "Group Configuration:\n————————————————\n```\n{}\n```",
+        "그룹 구성:\n————————————————\n```\n{}\n```",
 
     "CMD_NOT_ALLOW_PRIVATE":
-        "This command cannot be used in private chat.",
+        "이 명령은 비공개 채팅에서는 쓸 수 없습니다.",
 
     "CMD_NEEDS_CONNECTION":
         "This command cannot be used in private chat unless you make a connection (/connect) to configure some group.",
